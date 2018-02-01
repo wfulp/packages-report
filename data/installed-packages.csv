@@ -1,120 +1,120 @@
-"Package","LibPath","Version","Priority","Built"
-"assertthat","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.2.0",NA,"3.4.3"
-"backports","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.2",NA,"3.4.3"
-"base64enc","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.1-3",NA,"3.4.1"
-"BH","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.65.0-1",NA,"3.4.1"
-"bindr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.1",NA,"3.4.3"
-"bindrcpp","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.2",NA,"3.4.3"
-"bitops","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.0-6",NA,"3.4.1"
-"broom","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.4.3",NA,"3.4.3"
-"caTools","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.17.1",NA,"3.4.3"
-"cellranger","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.0",NA,"3.4.3"
-"cli","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.0.0",NA,"3.4.3"
-"clipr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.4.0",NA,"3.4.3"
-"clisymbols","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.2.0",NA,"3.4.3"
-"colorspace","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.3-2",NA,"3.4.3"
-"crayon","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.3.4",NA,"3.4.3"
-"curl","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","3.1",NA,"3.4.3"
-"data.table","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.10.4-3",NA,"3.4.3"
-"DBI","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.7",NA,"3.4.3"
-"dbplyr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.2.0",NA,"3.4.3"
-"debugme","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.0",NA,"3.4.3"
-"desc","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.1",NA,"3.4.3"
-"dichromat","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","2.0-0",NA,"3.4.1"
-"digest","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.6.14",NA,"3.4.3"
-"dplyr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.7.4",NA,"3.4.3"
-"enc","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.1",NA,"3.4.3"
-"evaluate","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.10.1",NA,"3.4.3"
-"forcats","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.2.0",NA,"3.4.3"
-"fs","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.0",NA,"3.4.3"
-"ggplot2","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","2.2.1",NA,"3.4.3"
-"gh","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.0.1",NA,"3.4.3"
-"git2r","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.21.0",NA,"3.4.3"
-"glue","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.2.0",NA,"3.4.3"
-"gtable","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.2.0",NA,"3.4.3"
-"haven","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.1",NA,"3.4.3"
-"highr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.6",NA,"3.4.3"
-"hms","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.4.1",NA,"3.4.3"
-"htmltools","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.3.6",NA,"3.4.3"
-"httr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.3.1",NA,"3.4.3"
-"ini","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.3.0",NA,"3.4.3"
-"jsonlite","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.5",NA,"3.4.3"
-"knitr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.19",NA,"3.4.3"
-"labeling","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.3",NA,"3.4.1"
-"lazyeval","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.2.1",NA,"3.4.3"
-"lubridate","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.7.1",NA,"3.4.3"
-"magrittr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.5",NA,"3.4.3"
-"markdown","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.8",NA,"3.4.3"
-"mime","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.5",NA,"3.4.1"
-"mnormt","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.5-5",NA,"3.4.1"
-"modelr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.1.1",NA,"3.4.3"
-"munsell","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.4.3",NA,"3.4.3"
-"openssl","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.9.9",NA,"3.4.3"
-"pillar","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.0",NA,"3.4.3"
-"pkgconfig","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","2.0.1",NA,"3.4.3"
-"plogr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.1-1",NA,"3.4.3"
-"plyr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.8.4",NA,"3.4.3"
-"praise","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.0.0",NA,"3.4.3"
-"psych","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.7.8",NA,"3.4.3"
-"purrr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.2.4",NA,"3.4.3"
-"R6","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","2.2.2",NA,"3.4.3"
-"RColorBrewer","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1-2",NA,"3.4.1"
-"Rcpp","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.12.15",NA,"3.4.3"
-"readr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.1",NA,"3.4.3"
-"readxl","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.0.0",NA,"3.4.3"
-"rematch","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.0.1",NA,"3.4.3"
-"rematch2","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","2.0.1",NA,"3.4.3"
-"reprex","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.1.2",NA,"3.4.3"
-"reshape2","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.4.3",NA,"3.4.3"
-"rlang","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.1.6",NA,"3.4.3"
-"rmarkdown","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.8",NA,"3.4.3"
-"rprojroot","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.3-2",NA,"3.4.3"
-"rstudioapi","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.7",NA,"3.4.3"
-"rvest","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.3.2",NA,"3.4.3"
-"scales","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.5.0",NA,"3.4.3"
-"selectr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.3-1",NA,"3.4.3"
-"stringi","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.6",NA,"3.4.2"
-"stringr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.2.0",NA,"3.4.3"
-"styler","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.0.0",NA,"3.4.3"
-"testthat","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","2.0.0",NA,"3.4.3"
-"tibble","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.4.2",NA,"3.4.3"
-"tidyr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.7.2",NA,"3.4.3"
-"tidyselect","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.2.3",NA,"3.4.3"
-"tidyverse","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.2.1",NA,"3.4.3"
-"usethis","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.2.0",NA,"3.4.3"
-"utf8","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.1.3",NA,"3.4.3"
-"viridisLite","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.2.0",NA,"3.4.3"
-"whisker","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","0.3-2",NA,"3.4.3"
-"withr","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","2.1.1",NA,"3.4.3"
-"xml2","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","1.2.0",NA,"3.4.3"
-"yaml","C:/Users/actua/OneDrive/Documents/R/win-library/3.4","2.1.16",NA,"3.4.3"
-"base","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"boot","C:/Program Files/R/R-3.4.3/library","1.3-20","recommended","3.4.3"
-"class","C:/Program Files/R/R-3.4.3/library","7.3-14","recommended","3.4.3"
-"cluster","C:/Program Files/R/R-3.4.3/library","2.0.6","recommended","3.4.3"
-"codetools","C:/Program Files/R/R-3.4.3/library","0.2-15","recommended","3.4.3"
-"compiler","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"datasets","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"foreign","C:/Program Files/R/R-3.4.3/library","0.8-69","recommended","3.4.3"
-"graphics","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"grDevices","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"grid","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"KernSmooth","C:/Program Files/R/R-3.4.3/library","2.23-15","recommended","3.4.3"
-"lattice","C:/Program Files/R/R-3.4.3/library","0.20-35","recommended","3.4.3"
-"MASS","C:/Program Files/R/R-3.4.3/library","7.3-47","recommended","3.4.3"
-"Matrix","C:/Program Files/R/R-3.4.3/library","1.2-12","recommended","3.4.3"
-"methods","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"mgcv","C:/Program Files/R/R-3.4.3/library","1.8-22","recommended","3.4.3"
-"nlme","C:/Program Files/R/R-3.4.3/library","3.1-131","recommended","3.4.3"
-"nnet","C:/Program Files/R/R-3.4.3/library","7.3-12","recommended","3.4.3"
-"parallel","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"rpart","C:/Program Files/R/R-3.4.3/library","4.1-11","recommended","3.4.3"
-"spatial","C:/Program Files/R/R-3.4.3/library","7.3-11","recommended","3.4.3"
-"splines","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"stats","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"stats4","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"survival","C:/Program Files/R/R-3.4.3/library","2.41-3","recommended","3.4.3"
-"tcltk","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"tools","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
-"translations","C:/Program Files/R/R-3.4.3/library","3.4.3",NA,"3.4.3"
-"utils","C:/Program Files/R/R-3.4.3/library","3.4.3","base","3.4.3"
+Package,LibPath,Version,Priority,Built
+assertthat,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.2.0,,3.4.3
+backports,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.2,,3.4.3
+base64enc,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.1-3,,3.4.1
+BH,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.65.0-1,,3.4.1
+bindr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.1,,3.4.3
+bindrcpp,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.2,,3.4.3
+bitops,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.0-6,,3.4.1
+broom,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.4.3,,3.4.3
+caTools,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.17.1,,3.4.3
+cellranger,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.0,,3.4.3
+cli,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.0.0,,3.4.3
+clipr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.4.0,,3.4.3
+clisymbols,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.2.0,,3.4.3
+colorspace,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.3-2,,3.4.3
+crayon,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.3.4,,3.4.3
+curl,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,3.1,,3.4.3
+data.table,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.10.4-3,,3.4.3
+DBI,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.7,,3.4.3
+dbplyr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.2.0,,3.4.3
+debugme,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.0,,3.4.3
+desc,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.1,,3.4.3
+dichromat,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,2.0-0,,3.4.1
+digest,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.6.14,,3.4.3
+dplyr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.7.4,,3.4.3
+enc,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.1,,3.4.3
+evaluate,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.10.1,,3.4.3
+forcats,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.2.0,,3.4.3
+fs,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.0,,3.4.3
+ggplot2,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,2.2.1,,3.4.3
+gh,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.0.1,,3.4.3
+git2r,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.21.0,,3.4.3
+glue,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.2.0,,3.4.3
+gtable,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.2.0,,3.4.3
+haven,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.1,,3.4.3
+highr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.6,,3.4.3
+hms,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.4.1,,3.4.3
+htmltools,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.3.6,,3.4.3
+httr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.3.1,,3.4.3
+ini,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.3.0,,3.4.3
+jsonlite,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.5,,3.4.3
+knitr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.19,,3.4.3
+labeling,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.3,,3.4.1
+lazyeval,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.2.1,,3.4.3
+lubridate,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.7.1,,3.4.3
+magrittr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.5,,3.4.3
+markdown,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.8,,3.4.3
+mime,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.5,,3.4.1
+mnormt,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.5-5,,3.4.1
+modelr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.1.1,,3.4.3
+munsell,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.4.3,,3.4.3
+openssl,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.9.9,,3.4.3
+pillar,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.0,,3.4.3
+pkgconfig,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,2.0.1,,3.4.3
+plogr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.1-1,,3.4.3
+plyr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.8.4,,3.4.3
+praise,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.0.0,,3.4.3
+psych,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.7.8,,3.4.3
+purrr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.2.4,,3.4.3
+R6,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,2.2.2,,3.4.3
+RColorBrewer,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1-2,,3.4.1
+Rcpp,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.12.15,,3.4.3
+readr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.1,,3.4.3
+readxl,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.0.0,,3.4.3
+rematch,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.0.1,,3.4.3
+rematch2,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,2.0.1,,3.4.3
+reprex,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.1.2,,3.4.3
+reshape2,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.4.3,,3.4.3
+rlang,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.1.6,,3.4.3
+rmarkdown,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.8,,3.4.3
+rprojroot,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.3-2,,3.4.3
+rstudioapi,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.7,,3.4.3
+rvest,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.3.2,,3.4.3
+scales,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.5.0,,3.4.3
+selectr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.3-1,,3.4.3
+stringi,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.6,,3.4.2
+stringr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.2.0,,3.4.3
+styler,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.0.0,,3.4.3
+testthat,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,2.0.0,,3.4.3
+tibble,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.4.2,,3.4.3
+tidyr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.7.2,,3.4.3
+tidyselect,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.2.3,,3.4.3
+tidyverse,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.2.1,,3.4.3
+usethis,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.2.0,,3.4.3
+utf8,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.1.3,,3.4.3
+viridisLite,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.2.0,,3.4.3
+whisker,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,0.3-2,,3.4.3
+withr,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,2.1.1,,3.4.3
+xml2,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,1.2.0,,3.4.3
+yaml,C:/Users/actua/OneDrive/Documents/R/win-library/3.4,2.1.16,,3.4.3
+base,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+boot,C:/Program Files/R/R-3.4.3/library,1.3-20,recommended,3.4.3
+class,C:/Program Files/R/R-3.4.3/library,7.3-14,recommended,3.4.3
+cluster,C:/Program Files/R/R-3.4.3/library,2.0.6,recommended,3.4.3
+codetools,C:/Program Files/R/R-3.4.3/library,0.2-15,recommended,3.4.3
+compiler,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+datasets,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+foreign,C:/Program Files/R/R-3.4.3/library,0.8-69,recommended,3.4.3
+graphics,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+grDevices,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+grid,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+KernSmooth,C:/Program Files/R/R-3.4.3/library,2.23-15,recommended,3.4.3
+lattice,C:/Program Files/R/R-3.4.3/library,0.20-35,recommended,3.4.3
+MASS,C:/Program Files/R/R-3.4.3/library,7.3-47,recommended,3.4.3
+Matrix,C:/Program Files/R/R-3.4.3/library,1.2-12,recommended,3.4.3
+methods,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+mgcv,C:/Program Files/R/R-3.4.3/library,1.8-22,recommended,3.4.3
+nlme,C:/Program Files/R/R-3.4.3/library,3.1-131,recommended,3.4.3
+nnet,C:/Program Files/R/R-3.4.3/library,7.3-12,recommended,3.4.3
+parallel,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+rpart,C:/Program Files/R/R-3.4.3/library,4.1-11,recommended,3.4.3
+spatial,C:/Program Files/R/R-3.4.3/library,7.3-11,recommended,3.4.3
+splines,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+stats,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+stats4,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+survival,C:/Program Files/R/R-3.4.3/library,2.41-3,recommended,3.4.3
+tcltk,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+tools,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3
+translations,C:/Program Files/R/R-3.4.3/library,3.4.3,,3.4.3
+utils,C:/Program Files/R/R-3.4.3/library,3.4.3,base,3.4.3

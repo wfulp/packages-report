@@ -16,7 +16,7 @@ my_packages_subset <- my_packages[, .(Package, LibPath, Version, Priority, Built
 ## YES overwrite the file that is there now
 ## that came from me (Jenny)
 ## it an example of what yours should look like
-write.csv(my_packages_subset, '../data/installed-packages.csv',row.names = FALSE)
+fwrite(my_packages_subset, '../data/installed-packages.csv',row.names = FALSE)
 
 ## when this script works, stage & commit it and the csv file
 ## PUSH!
